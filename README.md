@@ -12,7 +12,7 @@
 - Commit C programs
 
 ## Completed Tasks
-- [x] Created GitHub repository
-- [x] Initialized README.md
-- [x] Added Markdown formatting
-- [x] Created a branch
+- Created GitHub repository
+-  Initialized README.md
+-  Added Markdown formatting
+-  Created a branch
