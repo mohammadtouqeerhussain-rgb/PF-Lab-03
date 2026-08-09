@@ -1,4 +1,4 @@
-# PF-Lab-03
+# PF-Lab
 
 # Programming Fundamentals Lab 03
 
